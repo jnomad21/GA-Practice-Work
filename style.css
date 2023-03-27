@@ -1,0 +1,58 @@
+*{
+    text-align: center; 
+    
+}
+#alpha {
+    text-align: center;
+    color: green;
+    font-family: 'snake', sans-serif;
+    font-size: 60px 
+}
+#botSec {
+    background-color: rgb(222, 243, 222);
+    height: 600px
+    
+}
+img {
+    
+    max-width: 50%;
+
+}
+li {
+    
+    list-style-position: inside;
+    text-align:unset;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:oblique;
+    font-size: large;
+    padding-right: 70px;
+}
+#div1 {
+    
+    padding-top: 8px;
+    margin-top: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+hr {
+    border-top: 3px solid green;
+    ;
+}
+ul{
+
+    display:inline-block;
+    text-align: left;
+}
+.bullet{
+    text-align: center;
+}
+#bravo {
+    padding-left: 70px;
+}
+
+
+
+
+    
+    
